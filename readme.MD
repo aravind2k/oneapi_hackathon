@@ -57,3 +57,11 @@ The server will start and listen on the specified port. You can access the micro
 You can use browsers like google or edge to interact with the web application. Here are the details for web application:
 
 - http://localhost:8501
+
+## Demo Video
+
+https://drive.google.com/file/d/1XzWcV5W7AUp3SG3CfvaY1IBX3_6MSjdv/view?usp=drive_link
+
+
+
+
